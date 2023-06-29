@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303047739996",
+    "project_id": "authapi-f4da8",
+    "storage_bucket": "authapi-f4da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303047739996:android:4a4456b47f755ac062f499",
+        "android_client_info": {
+          "package_name": "com.example.food_myui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznJZ_9-WVk0Tl7_S8COARYywRPQOvJXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
